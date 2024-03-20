@@ -30,7 +30,7 @@ Estou constantemente atualizando meu conhecimento para acompanhar as últimas te
 
 <div align="center">
   <p align="center">
-    <img src="https://github.com/erika3724/erika3724/blob/output/github-contribution-grid-snake2.svg"  alt="snake gif">
+    <img src="https://github.com/erika3724/erika3724/blob/output/github-contribution-grid-snake.svg"  alt="snake gif">
   </p>
   <p align="center">
     <img src="https://profile-counter.glitch.me/erika3724/count.svg" alt="Número de visitantes">

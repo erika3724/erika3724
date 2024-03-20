@@ -26,11 +26,11 @@ Estou constantemente atualizando meu conhecimento para acompanhar as últimas te
 
 | Estatísticas do GitHub | Principais Linguagens |
 | :-------------------: | :------------------: |
-| ![Erica GitHub stats](https://github.com/erika3724/erika3724/blob/output/github-contribution-grid-snake2.svg) |
+| ![Erica GitHub stats](https://github-readme-stats.vercel.app/api?username=erika3724&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika3724&layout=compact&langs_count=7&theme=dark) |
 
 <div align="center">
   <p align="center">
-    <img src="https://github.com/erika3724/erika3724/blob/output/github-contribution-grid-snake.svg"  alt="snake gif">
+    <img src="https://github.com/erika3724/erika3724/blob/output/github-contribution-grid-snake2.svg"  alt="snake gif">
   </p>
   <p align="center">
     <img src="https://profile-counter.glitch.me/erika3724/count.svg" alt="Número de visitantes">

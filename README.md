@@ -2,9 +2,7 @@
 ## CONTATO
 soareserika3724@gmail.com
 +55 62 9 9455-1057
-<div align="center">
-  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="Foto de perfil" height="150" width="150">
-</div>
+
 
 ## Sobre mim 
 <h3>Desenvolvedora Full Stack com expertise em HTML, CSS, JavaScript, React, Node.js, Kotlin e MySQL. Busco desafios em equipes dinâmicas, focado em criar interfaces excepcionais e atualizado com as últimas tendências do setor. Sou comunicativa, orientada para resultados e apaixonada por aprender e enfrentar novas tecnologias. Estou em busca de oportunidades para contribuir em projetos de alto nível e superar as expectativas dos usuários.

@@ -26,6 +26,7 @@ jobs:
           github_user_name: erika3724 #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'pink'
 
       - run: git status
 

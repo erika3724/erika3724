@@ -26,7 +26,7 @@ Estou constantemente atualizando meu conhecimento para acompanhar as últimas te
 
 | Estatísticas do GitHub | Principais Linguagens |
 | :-------------------: | :------------------: |
-| ![Erica GitHub stats](https://github-readme-stats.vercel.app/api?username=erika3724&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika3724&layout=compact&langs_count=8&theme=dark) |
+| ![Erica GitHub stats](https://github-readme-stats.vercel.app/api?username=erika3724&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika3724&layout=compact&langs_count=8&theme=dracula) |
 
 <div align="center">
   <p align="center">
